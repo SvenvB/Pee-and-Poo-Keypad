@@ -28,7 +28,7 @@ The buttons are connected to D1 through D8 on the ESP8266.
 * The microcontroller is screwed down using 2x M3 screws. 
 * The USB cable is more or less fixed using a glue pistol. 
 * The lid is fixed using double-sided permanent tape.
-* The buttons are printed on a 4x6 glossy photo at a CVS store.
+* The buttons are printed on a 4"x6" glossy photo at a CVS store.
 
 <img src="https://github.com/SvenvB/Pee-and-Poo-Keypad/blob/main/CAD%20files/buttons/buttons.png" width="300">
 
